@@ -22,22 +22,22 @@ class QuizPage extends StatefulWidget {
   QuizPage({Key? key}) : super(key: key);
 
   List<Icon> marcadorDePontos = [
-    const Icon(
-      Icons.check,
-      color: Colors.green,
-    ),
-    const Icon(
-      Icons.close,
-      color: Colors.red,
-    ),
-    const Icon(
-      Icons.check,
-      color: Colors.green,
-    ),
-    const Icon(
-      Icons.close,
-      color: Colors.red,
-    )
+    // const Icon(
+    //   Icons.check,
+    //   color: Colors.green,
+    // ),
+    // const Icon(
+    //   Icons.close,
+    //   color: Colors.red,
+    // ),
+    // const Icon(
+    //   Icons.check,
+    //   color: Colors.green,
+    // ),
+    // const Icon(
+    //   Icons.close,
+    //   color: Colors.red,
+    // )
   ];
 
   @override
